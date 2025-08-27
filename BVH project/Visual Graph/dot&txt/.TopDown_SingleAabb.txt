@@ -1,0 +1,11 @@
+GENERAL INFO: 
+             Depth: 0
+              Size: 1
+
+NODE [0000024B61D053A0] 
+                BV: 0.000000, 0.000000, 0.000000, 1.000000, 1.000000, 1.000000
+            Volume: 1.000000
+      Surface area: 6.000000
+          Children: NONE
+     Objects count: 1
+

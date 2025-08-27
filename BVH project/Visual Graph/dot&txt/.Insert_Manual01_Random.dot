@@ -1,0 +1,40 @@
+digraph bvh {
+	node[group="", shape=none, style="rounded,filled", fontcolor="#101010"]
+	NODE0[label="[1.00,1.00,0.00]\n[10.00,7.00,1.00]\nSA: 138.00\nVOL: 54.00"];
+	NODE1[label="[4.00,1.00,0.00]\n[10.00,7.00,1.00]\nSA: 96.00\nVOL: 36.00"];
+	NODE2[label="[1.00,3.00,0.00]\n[3.00,5.00,1.00]\nSA: 16.00\nVOL: 4.00\n1 objects"];
+	NODE3[label="[6.00,1.00,0.00]\n[10.00,7.00,1.00]\nSA: 68.00\nVOL: 24.00"];
+	NODE4[label="[4.00,1.00,0.00]\n[6.00,7.00,1.00]\nSA: 40.00\nVOL: 12.00\n1 objects"];
+	NODE5[label="[6.00,1.00,0.00]\n[7.00,7.00,1.00]\nSA: 26.00\nVOL: 6.00"];
+	NODE6[label="[8.00,3.00,0.00]\n[10.00,5.00,1.00]\nSA: 16.00\nVOL: 4.00"];
+	NODE7[label="[6.00,1.00,0.00]\n[7.00,3.00,1.00]\nSA: 10.00\nVOL: 2.00"];
+	NODE8[label="[6.00,3.00,0.00]\n[7.00,7.00,1.00]\nSA: 18.00\nVOL: 4.00"];
+	NODE9[label="[9.00,3.00,0.00]\n[10.00,5.00,1.00]\nSA: 10.00\nVOL: 2.00\n1 objects"];
+	NODE10[label="[8.00,3.00,0.00]\n[9.00,5.00,1.00]\nSA: 10.00\nVOL: 2.00\n1 objects"];
+	NODE11[label="[6.00,1.00,0.00]\n[7.00,2.00,1.00]\nSA: 6.00\nVOL: 1.00\n1 objects"];
+	NODE12[label="[6.00,2.00,0.00]\n[7.00,3.00,1.00]\nSA: 6.00\nVOL: 1.00\n1 objects"];
+	NODE13[label="[6.00,5.00,0.00]\n[7.00,7.00,1.00]\nSA: 10.00\nVOL: 2.00"];
+	NODE14[label="[6.00,3.00,0.00]\n[7.00,5.00,1.00]\nSA: 10.00\nVOL: 2.00"];
+	NODE15[label="[6.00,5.00,0.00]\n[7.00,6.00,1.00]\nSA: 6.00\nVOL: 1.00\n1 objects"];
+	NODE16[label="[6.00,6.00,0.00]\n[7.00,7.00,1.00]\nSA: 6.00\nVOL: 1.00\n1 objects"];
+	NODE17[label="[6.00,3.00,0.00]\n[7.00,4.00,1.00]\nSA: 6.00\nVOL: 1.00\n1 objects"];
+	NODE18[label="[6.00,4.00,0.00]\n[7.00,5.00,1.00]\nSA: 6.00\nVOL: 1.00\n1 objects"];
+	NODE0 -> NODE1;
+	NODE0 -> NODE2;
+	NODE1 -> NODE3;
+	NODE1 -> NODE4;
+	NODE3 -> NODE5;
+	NODE3 -> NODE6;
+	NODE5 -> NODE7;
+	NODE5 -> NODE8;
+	NODE6 -> NODE9;
+	NODE6 -> NODE10;
+	NODE7 -> NODE11;
+	NODE7 -> NODE12;
+	NODE8 -> NODE13;
+	NODE8 -> NODE14;
+	NODE13 -> NODE15;
+	NODE13 -> NODE16;
+	NODE14 -> NODE17;
+	NODE14 -> NODE18;
+}

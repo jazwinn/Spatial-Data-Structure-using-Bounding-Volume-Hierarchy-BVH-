@@ -1,0 +1,4 @@
+digraph bvh {
+	node[group="", shape=none, style="rounded,filled", fontcolor="#101010"]
+	NODE0[label="[0.00,0.00,0.00]\n[2.00,1.00,1.00]\nSA: 10.00\nVOL: 2.00\n2 objects"];
+}

@@ -1,0 +1,182 @@
+GENERAL INFO: 
+             Depth: 8
+              Size: 19
+
+NODE [0000024B61D053A0] 
+                BV: 1.000000, 1.000000, 0.000000, 10.000000, 7.000000, 1.000000
+            Volume: 54.000000
+      Surface area: 138.000000
+          Children: 
+                   NODE [0000024B61D05D20] 
+                       Depth: 7
+                        Size: 17
+                   NODE [0000024B61D05BA0] 
+                       Depth: 0
+                        Size: 1
+
+NODE [0000024B61D05D20] 
+                BV: 4.000000, 1.000000, 0.000000, 10.000000, 7.000000, 1.000000
+            Volume: 36.000000
+      Surface area: 96.000000
+          Children: 
+                   NODE [0000024B61D055A0] 
+                       Depth: 6
+                        Size: 13
+                   NODE [0000024B61D052A0] 
+                       Depth: 1
+                        Size: 3
+
+NODE [0000024B61D05BA0] 
+                BV: 1.000000, 3.000000, 0.000000, 3.000000, 5.000000, 1.000000
+            Volume: 4.000000
+      Surface area: 16.000000
+          Children: NONE
+     Objects count: 1
+
+NODE [0000024B61D055A0] 
+                BV: 4.000000, 1.000000, 0.000000, 7.000000, 7.000000, 1.000000
+            Volume: 18.000000
+      Surface area: 54.000000
+          Children: 
+                   NODE [0000024B61D05320] 
+                       Depth: 5
+                        Size: 11
+                   NODE [0000024B61D056A0] 
+                       Depth: 0
+                        Size: 1
+
+NODE [0000024B61D052A0] 
+                BV: 8.000000, 3.000000, 0.000000, 10.000000, 5.000000, 1.000000
+            Volume: 4.000000
+      Surface area: 16.000000
+          Children: 
+                   NODE [0000024B61D054A0] 
+                       Depth: 0
+                        Size: 1
+                   NODE [0000024B61D05DA0] 
+                       Depth: 0
+                        Size: 1
+
+NODE [0000024B61D05320] 
+                BV: 6.000000, 1.000000, 0.000000, 7.000000, 7.000000, 1.000000
+            Volume: 6.000000
+      Surface area: 26.000000
+          Children: 
+                   NODE [0000024B61D05B20] 
+                       Depth: 4
+                        Size: 9
+                   NODE [0000024B61D05F20] 
+                       Depth: 0
+                        Size: 1
+
+NODE [0000024B61D056A0] 
+                BV: 4.000000, 1.000000, 0.000000, 6.000000, 7.000000, 1.000000
+            Volume: 12.000000
+      Surface area: 40.000000
+          Children: NONE
+     Objects count: 1
+
+NODE [0000024B61D054A0] 
+                BV: 8.000000, 3.000000, 0.000000, 9.000000, 5.000000, 1.000000
+            Volume: 2.000000
+      Surface area: 10.000000
+          Children: NONE
+     Objects count: 1
+
+NODE [0000024B61D05DA0] 
+                BV: 9.000000, 3.000000, 0.000000, 10.000000, 5.000000, 1.000000
+            Volume: 2.000000
+      Surface area: 10.000000
+          Children: NONE
+     Objects count: 1
+
+NODE [0000024B61D05B20] 
+                BV: 6.000000, 1.000000, 0.000000, 7.000000, 6.000000, 1.000000
+            Volume: 5.000000
+      Surface area: 22.000000
+          Children: 
+                   NODE [0000024B61D05420] 
+                       Depth: 3
+                        Size: 7
+                   NODE [0000024B61D05620] 
+                       Depth: 0
+                        Size: 1
+
+NODE [0000024B61D05F20] 
+                BV: 6.000000, 6.000000, 0.000000, 7.000000, 7.000000, 1.000000
+            Volume: 1.000000
+      Surface area: 6.000000
+          Children: NONE
+     Objects count: 1
+
+NODE [0000024B61D05420] 
+                BV: 6.000000, 2.000000, 0.000000, 7.000000, 6.000000, 1.000000
+            Volume: 4.000000
+      Surface area: 18.000000
+          Children: 
+                   NODE [0000024B61D05FA0] 
+                       Depth: 2
+                        Size: 5
+                   NODE [0000024B61D05E20] 
+                       Depth: 0
+                        Size: 1
+
+NODE [0000024B61D05620] 
+                BV: 6.000000, 1.000000, 0.000000, 7.000000, 2.000000, 1.000000
+            Volume: 1.000000
+      Surface area: 6.000000
+          Children: NONE
+     Objects count: 1
+
+NODE [0000024B61D05FA0] 
+                BV: 6.000000, 3.000000, 0.000000, 7.000000, 6.000000, 1.000000
+            Volume: 3.000000
+      Surface area: 14.000000
+          Children: 
+                   NODE [0000024B61D05920] 
+                       Depth: 0
+                        Size: 1
+                   NODE [0000024B61D06120] 
+                       Depth: 1
+                        Size: 3
+
+NODE [0000024B61D05E20] 
+                BV: 6.000000, 2.000000, 0.000000, 7.000000, 3.000000, 1.000000
+            Volume: 1.000000
+      Surface area: 6.000000
+          Children: NONE
+     Objects count: 1
+
+NODE [0000024B61D05920] 
+                BV: 6.000000, 3.000000, 0.000000, 7.000000, 4.000000, 1.000000
+            Volume: 1.000000
+      Surface area: 6.000000
+          Children: NONE
+     Objects count: 1
+
+NODE [0000024B61D06120] 
+                BV: 6.000000, 4.000000, 0.000000, 7.000000, 6.000000, 1.000000
+            Volume: 2.000000
+      Surface area: 10.000000
+          Children: 
+                   NODE [0000024B61D061A0] 
+                       Depth: 0
+                        Size: 1
+                   NODE [0000024B61D060A0] 
+                       Depth: 0
+                        Size: 1
+
+NODE [0000024B61D061A0] 
+                BV: 6.000000, 5.000000, 0.000000, 7.000000, 6.000000, 1.000000
+            Volume: 1.000000
+      Surface area: 6.000000
+          Children: NONE
+     Objects count: 1
+
+NODE [0000024B61D060A0] 
+                BV: 6.000000, 4.000000, 0.000000, 7.000000, 5.000000, 1.000000
+            Volume: 1.000000
+      Surface area: 6.000000
+          Children: NONE
+     Objects count: 1
+
