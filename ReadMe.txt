@@ -1,3 +1,14 @@
+# Bouding Volume Hierachy
+
+Demonstration of a Bounding Volume Hierarchy (BVH) for spatial partitioning and acceleration of collision detection or ray tracing.
+
+
+## Demo
+
+
+
+##
+
 MODEL ASSETS REMOVED FOR COPYRIGHT REASON, PM FOR MORE DETAIL
 You can see visual representation of a bounding volume hierachy under "BVH project\Visual Graph"
 
