@@ -198,15 +198,6 @@ cmake --build . --config Release
 
 ---
 
-## Roadmap
-
-- [ ] Implement `BuildBottomUp` and compare all three strategies on one scene
-- [ ] Surface Area Heuristic splitting alongside longest-axis median
-- [ ] Scripted benchmark that writes a brute-force vs BVH table instead of a live counter
-- [ ] Tree-quality metrics (depth, node count, SAH cost) reported per build
-
----
-
 ## Credits
 
 Written for CS350 at DigiPen Institute of Technology (Singapore).
